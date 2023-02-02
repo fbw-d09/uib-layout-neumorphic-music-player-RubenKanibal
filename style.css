@@ -177,3 +177,8 @@ img {
     color: rgb(52, 52, 52);
 }
 
+.codeBuddyIsDumb {
+    font-weight: 800;
+    display: none;
+}
+
